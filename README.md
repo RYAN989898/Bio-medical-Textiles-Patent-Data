@@ -1,2 +1,2 @@
-# Bio-medical-Textiles-Patent-Data
-Bio-medical Textiles Patent Data
+# Patent value prediction in biomedical textiles: A method based on a fusion of machine learning models 
+# Data and Code
